@@ -1,0 +1,156 @@
+[
+    {
+        "id":1,
+        "name":"Self Help",
+        "author":"Samuel Smiles",
+        "description":"Self-improvement book, teaching the importance of hard work & self-reliance.",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-6485.jpg?itok=IW0ul0HR"
+    },
+    {
+        "id":2,
+        "name":"Meditations",
+        "author":"Emperor of Rome Marcus Aurelius",
+        "description":"It reflects on how to stay calm, strong, and virtuous, even in difficult times.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-692.jpg?itok=LcPREt5s"
+    },
+    {
+        "id":3,
+        "name":"The Sense of Beauty",
+        "author":"George Santayana",
+        "description":"Beauty's impact on people, art, and nature.",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-22302.jpg?itok=wqsQK-Io"
+    },
+    {
+        "id":4,
+        "name":"Little Lost Girl",
+        "author":"Graham Wilson",
+        "description":"It centers around the mysterious disappearance of young girl-Sophie.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/2024-11/912FzEOfHuL._SL1500_.jpg?itok=D-v4333B"
+    },
+    {
+        "id":5,
+        "name":"Heir To Magic - Book 1",
+        "author":"Adam K. Watts",
+        "description":"A spell gone wrong. A teenage girl fighting for survival. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/2024-07/816llyMY73L._SL1500_.jpg?itok=4pk8B18Y"
+    },
+    {
+        "id":6,
+        "name":"The Sea Lady",
+        "author":"H.G. Wells",
+        "description":"A man who thinks he is rescuing a woman(mermaid) from drowning.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-31114.jpg?itok=B4aTd7Yd"
+    },
+    {
+        "id":7,
+        "name":"Myth and Science ",
+        "author":"Tito Vignoli",
+        "description":"Myths & science come from same human need to explain life's mysteries.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-12782.jpg?itok=-6UJtgu4"
+    },
+    {
+        "id":8,
+        "name":"The Machinery of the Universe",
+        "author":"Amos Emerson Dolbear ",
+        "description":"Explores mech. & phy. theories of the universe.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-24740.jpg?itok=6_Di6HhS"
+    },
+    {
+        "id":9,
+        "name":"Indiana Jones and the Temples of Tamil Nadu",
+        "author":"Brian Thomas",
+        "description":"Indiana Jones seeks a cursed alien artifact in India.",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/2024-09/Screenshot%202024-09-10%20at%2011.31.05.png?itok=dUZUuRBr"
+    },
+    {
+        "id":10,
+        "name":"The Art of Interior Decoration",
+        "author":" Grace Wood and Emily Burbank",
+        "description":"Interior design guide on color, furniture, and layout for aesthetic spaces...",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-16832.jpg?itok=Gvx0Y61f"
+    },
+    {
+        "id":11,
+        "name":"Dare to Dream",
+        "author":"Malissa Melrose",
+        "description":"Dare to Dream : The artist's vibrant works, to explore colorful world of the abstract creations.​",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/2019-02/posterebookcover2_1.jpg?itok=O-XF9rMy"
+    },
+    {
+        "id":12,
+        "name":"The Elements of Drawing",
+        "author":"John Ruskin ",
+        "description":"A guide on drawing technique, observation, and studying nature.",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-auto-25639.jpg?itok=hs0yq-B_"
+    },
+    {
+        "id":13,
+        "name":"The Psychology of Beauty",
+        "author":"Ethel D. Puffer",
+        "description":"How humans respond to beauty,tests psychological aspects of experience.",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-5784.jpg?itok=-vKYoZFk"
+    },
+    {
+        "id":14,
+        "name":"Actions and Reactions",
+        "author":"Rudyard Kipling",
+        "description":"Explores human nature, impact of actions,& complexities of moral choices​",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-4131.jpg?itok=xNPCT5a_"
+    },
+    {
+        "id":15,
+        "name":"The Time Machine ",
+        "author":"H.G. Wells",
+        "description":"The Time Machine : The time traveller journeys to the future and how he discovered the divided society .",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-7349.jpg?itok=l1GWS3Q8"
+    },
+    {
+        "id":16,
+        "name":"The Colors of Space",
+        "author":"Marion Zimmer Bradley",
+        "description":"Science fiction novel that explores interstellar conflict and human-alien relationships",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-16253.jpg?itok=3Fm_T17a"
+    },
+    {
+        "id":17,
+        "name":"Palmistry for All",
+        "author":" Cheiro",
+        "description":"Detailed guide to palmistry, teaching how to read hand lines and mounts to predict the future and uncover personality traits.",
+        "price":10,
+        "category":"Paid",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-orig-15945.jpg?itok=qixIypfY"
+    }
+    
+]
