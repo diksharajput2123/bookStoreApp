@@ -10,6 +10,8 @@ function Authorss() {
         <a href="/authors">
         <Navbar />
         <div className='min-h-screen'><Authors /></div>
+        
+        
         <Footer />
         </a>
     </>

@@ -13,7 +13,7 @@ function Cards({ item }) {
           <div className="card-body">
             <h2 className="card-title">
               {item.name}
-              <div className="badge badge-secondary">NEW</div>
+              <div className=" badge bg-pink-500">{item.author}</div>
             </h2>
             <p>{item.description}</p>
             <div className="card-actions justify-between">

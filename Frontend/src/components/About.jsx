@@ -67,6 +67,12 @@ function About() {
             </div>
         </div>  
         </div>
+
+        <div className=" mt-6  flex justify-center text-center">
+        <Link to="/" className=" btn btn-sm bg-pink-500  btn-ghost absolute top-15"
+              onClick={()=>document.getElementById("my_modal_3").closest()}
+              >Back</Link>
+        </div>
     </div>
   )
 }
